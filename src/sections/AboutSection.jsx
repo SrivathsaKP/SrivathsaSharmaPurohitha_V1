@@ -59,7 +59,7 @@ export default function AboutSection() {
               style={{ clipPath: 'polygon(0 0, 88% 0, 100% 100%, 0 100%)', borderRadius: '0 0 0 8px' }}
             >
               <img
-                src="/images/purohita-namaskara.png"
+                src={`${import.meta.env.BASE_URL}images/purohita-namaskara.png`}
                 alt="Srivathsa Sharma in prayer (namaskara)"
                 className="w-full object-cover object-top"
                 style={{ height: 'clamp(280px, 50vw, 520px)' }}

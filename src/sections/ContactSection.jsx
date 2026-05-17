@@ -42,7 +42,7 @@ export default function ContactSection() {
       <div className="absolute right-0 top-0 bottom-0 w-48 lg:w-64 pointer-events-none hidden lg:block"
         style={{ opacity: 0.07 }} aria-hidden="true"
       >
-        <img src="/images/trishula.png" alt=""
+        <img src={`${import.meta.env.BASE_URL}images/trishula.png`} alt=""
           className="absolute right-[-60px] top-1/2 -translate-y-1/2 h-[80%] object-contain"
           style={{ filter: 'brightness(1.5)' }}
         />
@@ -52,7 +52,7 @@ export default function ContactSection() {
       <div className="absolute left-0 top-0 bottom-0 w-48 pointer-events-none hidden xl:block"
         style={{ opacity: 0.05 }} aria-hidden="true"
       >
-        <img src="/images/deity-altar.png" alt=""
+        <img src={`${import.meta.env.BASE_URL}images/deity-altar.png`} alt=""
           className="absolute left-[-60px] top-1/2 -translate-y-1/2 h-[80%] object-contain"
         />
       </div>

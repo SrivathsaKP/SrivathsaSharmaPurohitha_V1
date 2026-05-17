@@ -2,27 +2,27 @@
   "devasthana": [
     {
       "filename": "IMG_1112.MOV",
-      "path": "/gallery/devasthana/IMG_1112.MOV.mp4",
+      "path": "gallery/devasthana/IMG_1112.MOV.mp4",
       "type": "video",
       "ext": "mp4",
       "original": "IMG_1112.MOV",
-      "poster": "/gallery/devasthana/IMG_1112.MOV.mp4.poster.jpg"
+      "poster": "gallery/devasthana/IMG_1112.MOV.mp4.poster.jpg"
     },
     {
       "filename": "IMG_1114.MOV",
-      "path": "/gallery/devasthana/IMG_1114.MOV.mp4",
+      "path": "gallery/devasthana/IMG_1114.MOV.mp4",
       "type": "video",
       "ext": "mp4",
       "original": "IMG_1114.MOV",
-      "poster": "/gallery/devasthana/IMG_1114.MOV.mp4.poster.jpg"
+      "poster": "gallery/devasthana/IMG_1114.MOV.mp4.poster.jpg"
     },
     {
       "filename": "IMG_1154.MOV",
-      "path": "/gallery/devasthana/IMG_1154.MOV.mp4",
+      "path": "gallery/devasthana/IMG_1154.MOV.mp4",
       "type": "video",
       "ext": "mp4",
       "original": "IMG_1154.MOV",
-      "poster": "/gallery/devasthana/IMG_1154.MOV.mp4.poster.jpg"
+      "poster": "gallery/devasthana/IMG_1154.MOV.mp4.poster.jpg"
     },
     {
       "filename": "IMG_1502.HEIC",
@@ -40,19 +40,19 @@
     },
     {
       "filename": "IMG_4266.MOV",
-      "path": "/gallery/devasthana/IMG_4266.MOV.mp4",
+      "path": "gallery/devasthana/IMG_4266.MOV.mp4",
       "type": "video",
       "ext": "mp4",
       "original": "IMG_4266.MOV",
-      "poster": "/gallery/devasthana/IMG_4266.MOV.mp4.poster.jpg"
+      "poster": "gallery/devasthana/IMG_4266.MOV.mp4.poster.jpg"
     },
     {
       "filename": "IMG_4497.MOV",
-      "path": "/gallery/devasthana/IMG_4497.MOV.mp4",
+      "path": "gallery/devasthana/IMG_4497.MOV.mp4",
       "type": "video",
       "ext": "mp4",
       "original": "IMG_4497.MOV",
-      "poster": "/gallery/devasthana/IMG_4497.MOV.mp4.poster.jpg"
+      "poster": "gallery/devasthana/IMG_4497.MOV.mp4.poster.jpg"
     },
     {
       "filename": "IMG_4499.HEIC",
@@ -77,23 +77,23 @@
     },
     {
       "filename": "IMG_4502.PNG",
-      "path": "/gallery/devasthana/IMG_4502.PNG",
+      "path": "gallery/devasthana/IMG_4502.PNG",
       "type": "image",
       "ext": "png"
     },
     {
       "filename": "IMG_4504.PNG",
-      "path": "/gallery/devasthana/IMG_4504.PNG",
+      "path": "gallery/devasthana/IMG_4504.PNG",
       "type": "image",
       "ext": "png"
     },
     {
       "filename": "IMG_4828.MOV",
-      "path": "/gallery/devasthana/IMG_4828.MOV.mp4",
+      "path": "gallery/devasthana/IMG_4828.MOV.mp4",
       "type": "video",
       "ext": "mp4",
       "original": "IMG_4828.MOV",
-      "poster": "/gallery/devasthana/IMG_4828.MOV.mp4.poster.jpg"
+      "poster": "gallery/devasthana/IMG_4828.MOV.mp4.poster.jpg"
     },
     {
       "filename": "IMG_4829.HEIC",
@@ -104,11 +104,11 @@
     },
     {
       "filename": "IMG_4833.MOV",
-      "path": "/gallery/devasthana/IMG_4833.MOV.mp4",
+      "path": "gallery/devasthana/IMG_4833.MOV.mp4",
       "type": "video",
       "ext": "mp4",
       "original": "IMG_4833.MOV",
-      "poster": "/gallery/devasthana/IMG_4833.MOV.mp4.poster.jpg"
+      "poster": "gallery/devasthana/IMG_4833.MOV.mp4.poster.jpg"
     },
     {
       "filename": "IMG_4834.HEIC",
@@ -119,35 +119,35 @@
     },
     {
       "filename": "IMG_4835.MOV",
-      "path": "/gallery/devasthana/IMG_4835.MOV.mp4",
+      "path": "gallery/devasthana/IMG_4835.MOV.mp4",
       "type": "video",
       "ext": "mp4",
       "original": "IMG_4835.MOV",
-      "poster": "/gallery/devasthana/IMG_4835.MOV.mp4.poster.jpg"
+      "poster": "gallery/devasthana/IMG_4835.MOV.mp4.poster.jpg"
     }
   ],
   "pooja-alankara": [
     {
       "filename": "chatgpt-image-03-18-38.png",
-      "path": "/gallery/pooja-alankara/chatgpt-image-03-18-38.png",
+      "path": "gallery/pooja-alankara/chatgpt-image-03-18-38.png",
       "type": "image",
       "ext": "png"
     },
     {
       "filename": "chatgpt-image-03-51-55.png",
-      "path": "/gallery/pooja-alankara/chatgpt-image-03-51-55.png",
+      "path": "gallery/pooja-alankara/chatgpt-image-03-51-55.png",
       "type": "image",
       "ext": "png"
     },
     {
       "filename": "IMG_4502.PNG",
-      "path": "/gallery/pooja-alankara/IMG_4502.PNG",
+      "path": "gallery/pooja-alankara/IMG_4502.PNG",
       "type": "image",
       "ext": "png"
     },
     {
       "filename": "IMG_4504.PNG",
-      "path": "/gallery/pooja-alankara/IMG_4504.PNG",
+      "path": "gallery/pooja-alankara/IMG_4504.PNG",
       "type": "image",
       "ext": "png"
     },

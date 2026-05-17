@@ -34,7 +34,7 @@ export default function GruhapraveshamSection() {
       {/* Ken Burns background */}
       <motion.div className="absolute inset-0" style={{ scale: imageScale }}>
         <img
-          src="/images/gruhapravesham-scene.png"
+          src={`${import.meta.env.BASE_URL}images/gruhapravesham-scene.png`}
           alt="Gruhapravesham ceremony"
           className="w-full h-full object-cover object-center"
           loading="lazy"

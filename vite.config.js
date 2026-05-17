@@ -171,7 +171,7 @@ async function generateManifest(projectRoot) {
 
         // ── Standard image ──
         if (SUPPORTED_IMAGE_EXTS.has(ext)) {
-          files.push({ filename, path: `/gallery/${entry.name}/${filename}`, type: 'image', ext: ext.slice(1) })
+          files.push({ filename, path: `gallery/${entry.name}/${filename}`, type: 'image', ext: ext.slice(1) })
           continue
         }
 
@@ -181,8 +181,8 @@ async function generateManifest(projectRoot) {
           const posterPath = path.join(sectionPath, posterName)
           if (ffmpeg) await ensurePoster(path.join(sectionPath, filename), posterPath, ffmpeg)
           files.push({
-            filename, path: `/gallery/${entry.name}/${filename}`, type: 'video', ext: ext.slice(1),
-            poster: fs.existsSync(posterPath) ? `/gallery/${entry.name}/${posterName}` : null,
+            filename, path: `gallery/${entry.name}/${filename}`, type: 'video', ext: ext.slice(1),
+            poster: fs.existsSync(posterPath) ? `gallery/${entry.name}/${posterName}` : null,
           })
           continue
         }
@@ -198,11 +198,11 @@ async function generateManifest(projectRoot) {
           if (ffmpeg && useMp4) await ensurePoster(mp4Path, posterPath, ffmpeg)
           files.push({
             filename,
-            path: `/gallery/${entry.name}/${useMp4 ? mp4Name : filename}`,
+            path: `gallery/${entry.name}/${useMp4 ? mp4Name : filename}`,
             type: 'video',
             ext: useMp4 ? 'mp4' : ext.slice(1),
             original: filename,
-            poster: fs.existsSync(posterPath) ? `/gallery/${entry.name}/${posterName}` : null,
+            poster: fs.existsSync(posterPath) ? `gallery/${entry.name}/${posterName}` : null,
           })
           continue
         }
@@ -246,7 +246,7 @@ function galleryManifestPlugin() {
 }
 
 export default defineConfig({
-  base: '/SrivathsaSharmaPurohitha_V1/',
+  base: './',
   plugins: [react(), galleryManifestPlugin()],
   build: {
     rollupOptions: {

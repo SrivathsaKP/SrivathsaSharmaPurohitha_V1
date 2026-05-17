@@ -187,7 +187,7 @@ export default function SudarshanaSection() {
                 className="will-change-transform"
               >
                 <motion.img
-                  src="/images/sudarshana-chakra.png"
+                  src={`${import.meta.env.BASE_URL}images/sudarshana-chakra.png`}
                   alt="Sudarshana Chakra — Divine disc of Lord Vishnu"
                   loading="eager"
                   className="w-[220px] sm:w-[280px] md:w-[320px] lg:w-[360px] h-auto block"

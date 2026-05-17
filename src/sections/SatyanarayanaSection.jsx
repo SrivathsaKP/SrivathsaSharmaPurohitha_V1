@@ -25,7 +25,7 @@ export default function SatyanarayanaSection() {
       {/* Parallax background */}
       <motion.div className="absolute inset-0" style={{ y: bgY, scale: 1.12 }}>
         <img
-          src="/images/satyanarayana-scene.png"
+          src={`${import.meta.env.BASE_URL}images/satyanarayana-scene.png`}
           alt="Satyanarayana Pooja scene — Lord Vishnu with devotees"
           className="w-full h-full object-cover object-top"
           loading="lazy"

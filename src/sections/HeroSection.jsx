@@ -88,7 +88,7 @@ export default function HeroSection() {
                 style={{ clipPath: 'ellipse(88% 95% at 55% 50%)', borderRadius: '40% 60% 55% 45% / 50% 45% 55% 50%' }}
               >
                 <img
-                  src="/images/purohita-pancharathi.png"
+                  src={`${import.meta.env.BASE_URL}images/purohita-pancharathi.png`}
                   alt="Srivathsa Sharma performing pancharathi ritual"
                   className="w-full object-cover object-top"
                   style={{ height: 'clamp(300px, 55vw, 480px)' }}

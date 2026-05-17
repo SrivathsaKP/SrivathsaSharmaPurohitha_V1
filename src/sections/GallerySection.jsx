@@ -254,7 +254,7 @@ export default function GallerySection() {
   const [lightboxItem, setLightboxItem] = useState(null)
 
   useEffect(() => {
-    fetch('/gallery/gallery-manifest.json', { cache: 'no-cache' })
+    fetch(`${import.meta.env.BASE_URL}gallery/gallery-manifest.json`, { cache: 'no-cache' })
       .then((r) => r.json())
       .then(setManifest)
       .catch(() => setManifest({}))
