@@ -246,9 +246,10 @@ function galleryManifestPlugin() {
 }
 
 export default defineConfig({
-  base: './',
+  base: '/SrivathsaSharmaPurohitha_V1/',
   plugins: [react(), galleryManifestPlugin()],
   build: {
+    outDir: 'docs',
     rollupOptions: {
       output: {
         manualChunks: {
