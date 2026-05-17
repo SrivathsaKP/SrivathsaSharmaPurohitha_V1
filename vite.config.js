@@ -246,6 +246,7 @@ function galleryManifestPlugin() {
 }
 
 export default defineConfig({
+  base: '/SrivathsaSharmaPurohitha_V1/',
   plugins: [react(), galleryManifestPlugin()],
   build: {
     rollupOptions: {
