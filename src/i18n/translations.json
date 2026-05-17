@@ -1,0 +1,676 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "gallery": "Gallery",
+      "contact": "Contact",
+      "bookNow": "Book Now"
+    },
+    "hero": {
+      "shloka": "ॐ सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः॥",
+      "shlokaTranslation": "May all be happy. May all be free from illness.",
+      "name": "Srivathsa Sharma",
+      "title": "Purohita · Vedic Ritual Specialist",
+      "subtitle": "Connecting Souls to the Divine Through Ancient Vedic Traditions",
+      "cta": "Book a Sacred Ritual",
+      "scrollHint": "Scroll to explore"
+    },
+    "about": {
+      "title": "About Srivathsa Sharma",
+      "subtitle": "A Guardian of Vedic Tradition",
+      "bio": "Pandit Srivathsa Sharma is a highly revered Vedic scholar and purohita with over 15 years of experience performing sacred Hindu rituals. Born into a traditional Brahmin family with an unbroken lineage of priests, he has dedicated his life to preserving the ancient Vedic traditions with utmost fidelity. Trained under renowned Vedic scholars in the gurukula system, Pandit Srivathsa specializes in a wide range of ceremonies — from Gruhapravesham to Rudrabhisheka — performed with deep devotion, Sanskrit precision, and spiritual authenticity. Based in Bangalore, he serves families across Karnataka and beyond, bringing divine blessings into every home and sacred occasion.",
+      "stats": {
+        "years": "15+",
+        "yearsLabel": "Years of Experience",
+        "rituals": "500+",
+        "ritualsLabel": "Sacred Rituals",
+        "families": "1000+",
+        "familiesLabel": "Families Blessed"
+      }
+    },
+    "services": {
+      "title": "Sacred Rituals & Services",
+      "subtitle": "Performed with Precision, Devotion & Vedic Authenticity",
+      "rituals": {
+        "gruhapravesham": {
+          "name": "Gruhapravesham",
+          "desc": "Auspicious house-warming ceremony invoking divine blessings for a new home",
+          "duration": "3–4 hours"
+        },
+        "satyanarayana": {
+          "name": "Satyanarayana Pooja",
+          "desc": "Sacred ritual of Lord Vishnu performed for prosperity and wish fulfillment",
+          "duration": "2–3 hours"
+        },
+        "sudarshana": {
+          "name": "Sudarshana Homa",
+          "desc": "Powerful Vishnu Chakra fire ritual for protection and removal of obstacles",
+          "duration": "3–4 hours"
+        },
+        "chandika": {
+          "name": "Chandika Homa",
+          "desc": "Fire ritual to Goddess Chandika for power, protection, and victory over enemies",
+          "duration": "4–5 hours"
+        },
+        "durgaDeepaNamaskara": {
+          "name": "Durga Deepa Namaskara",
+          "desc": "Sacred lamp worship to Goddess Durga for blessings and divine grace",
+          "duration": "1–2 hours"
+        },
+        "navagraha": {
+          "name": "Navagraha Homa",
+          "desc": "Fire ritual to the nine celestial planets for harmony and favorable outcomes",
+          "duration": "3–4 hours"
+        },
+        "durgaSaptashathi": {
+          "name": "Durga Saptashathi Parayana",
+          "desc": "Recitation of the 700 verses of Devi Mahatmya for power and protection",
+          "duration": "4–6 hours"
+        },
+        "rudrabhisheka": {
+          "name": "Rudrabhisheka",
+          "desc": "Ritual bathing of Shivalinga with sacred substances for peace and prosperity",
+          "duration": "2–3 hours"
+        },
+        "devasthana": {
+          "name": "Devasthana Pratishthapana",
+          "desc": "Sacred consecration and installation of temple deities with Vedic rites",
+          "duration": "Full day"
+        },
+        "ganaHoma": {
+          "name": "Gana Homa",
+          "desc": "Fire ritual to Lord Ganesha for removing obstacles and new beginnings",
+          "duration": "2–3 hours"
+        },
+        "vivaha": {
+          "name": "Vivaha",
+          "desc": "Traditional Vedic wedding ceremony uniting two souls in sacred matrimony",
+          "duration": "3–5 hours"
+        }
+      }
+    },
+    "sudarshana": {
+      "title": "Sudarshana Homa",
+      "subtitle": "The Divine Disc of Lord Vishnu",
+      "desc": "The Sudarshana Homa is one of the most powerful Vaishnava fire rituals, invoking the divine Sudarshana Chakra — the spinning discus weapon of Lord Vishnu — to destroy negativity, ward off evil forces, and protect the devotee's family from all harm. Performed with precise Vedic mantras and sacred offerings into the consecrated fire, this homa is particularly recommended for overcoming persistent obstacles, neutralizing malefic influences, and seeking divine protection.",
+      "benefits": "Protection · Obstacle Removal · Divine Grace"
+    },
+    "satyanarayana": {
+      "title": "Satyanarayana Pooja",
+      "subtitle": "Sacred Rite of Lord Vishnu",
+      "desc": "One of the most beloved and widely performed Vaishnava rituals, the Satyanarayana Pooja is an expression of gratitude and devotion to Lord Satyanarayana — a manifestation of Lord Vishnu. Performed on auspicious occasions, full moon days, and special family milestones, this pooja bestows prosperity, fulfillment of wishes, and divine blessings upon the entire family.",
+      "cta": "Book This Pooja"
+    },
+    "gruhapravesham": {
+      "title": "Gruhapravesham",
+      "subtitle": "The Sacred House Warming Ceremony",
+      "desc": "Gruhapravesham is the most auspicious ceremony for entering a new home, performed to purify the space, invoke the blessings of the gods, and establish divine protection for all who will dwell within. With the lighting of the sacred fire, chanting of Vedic hymns, and worship of all deities, the home is consecrated as a temple of love and devotion.",
+      "tradition": "Ancient Tradition · Sacred Purification · Divine Blessing"
+    },
+    "gallery": {
+      "title": "Sacred Moments",
+      "subtitle": "Captured in Devotion",
+      "filters": {
+        "all": "All",
+        "homa": "Homa",
+        "pooja": "Pooja",
+        "pratishthapana": "Pratishthapana",
+        "vivaha": "Vivaha"
+      }
+    },
+    "contact": {
+      "title": "Book a Sacred Ritual",
+      "subtitle": "Connect with Pandit Srivathsa Sharma",
+      "phone": "8073147207",
+      "phoneLabel": "Call or WhatsApp",
+      "available": "Available for ceremonies across Bangalore & Karnataka",
+      "form": {
+        "name": "Your Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "ritual": "Select Ritual",
+        "date": "Preferred Date",
+        "location": "Ceremony Location",
+        "message": "Additional Notes",
+        "submit": "Send Inquiry",
+        "sending": "Sending...",
+        "success": "Thank you! Pandit will contact you soon.",
+        "selectPlaceholder": "Choose a ritual..."
+      }
+    },
+    "drawer": {
+      "itemsRequired": "Items Required",
+      "duration": "Duration",
+      "contactToBook": "Contact to Book",
+      "printList": "Print List",
+      "close": "Close",
+      "ritualDesc": "Ritual Description"
+    },
+    "footer": {
+      "tagline": "Serving the Divine in Every Home",
+      "rights": "All rights reserved"
+    }
+  },
+  "kn": {
+    "nav": {
+      "home": "ಮನೆ",
+      "about": "ಬಗ್ಗೆ",
+      "services": "ಸೇವೆಗಳು",
+      "gallery": "ಗ್ಯಾಲರಿ",
+      "contact": "ಸಂಪರ್ಕ",
+      "bookNow": "ಈಗ ಬುಕ್ ಮಾಡಿ"
+    },
+    "hero": {
+      "shloka": "ॐ सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः॥",
+      "shlokaTranslation": "ಎಲ್ಲರೂ ಸುಖಿಗಳಾಗಲಿ. ಎಲ್ಲರೂ ರೋಗಮುಕ್ತರಾಗಲಿ.",
+      "name": "ಶ್ರೀವತ್ಸ ಶರ್ಮ",
+      "title": "ಪುರೋಹಿತ · ವೈದಿಕ ಕ್ರಿಯಾ ತಜ್ಞ",
+      "subtitle": "ಪ್ರಾಚೀನ ವೈದಿಕ ಸಂಪ್ರದಾಯಗಳ ಮೂಲಕ ಆತ್ಮಗಳನ್ನು ದೈವಿಕಕ್ಕೆ ಸಂಪರ್ಕಿಸುವ ಸೇವೆ",
+      "cta": "ಪೂಜೆ ಬುಕ್ ಮಾಡಿ",
+      "scrollHint": "ಮುಂದೆ ತಿರುಳಿ"
+    },
+    "about": {
+      "title": "ಶ್ರೀವತ್ಸ ಶರ್ಮ ಅವರ ಬಗ್ಗೆ",
+      "subtitle": "ವೈದಿಕ ಸಂಪ್ರದಾಯದ ರಕ್ಷಕ",
+      "bio": "ಪಂಡಿತ ಶ್ರೀವತ್ಸ ಶರ್ಮ ಅವರು 15 ವರ್ಷಗಳಿಗಿಂತ ಹೆಚ್ಚು ಅನುಭವ ಹೊಂದಿರುವ ಗೌರವಾನ್ವಿತ ವೈದಿಕ ವಿದ್ವಾಂಸ ಮತ್ತು ಪುರೋಹಿತರಾಗಿದ್ದಾರೆ. ಸಾಂಪ್ರದಾಯಿಕ ಬ್ರಾಹ್ಮಣ ಕುಟುಂಬದಲ್ಲಿ ಜನಿಸಿದ ಅವರು ಪ್ರಾಚೀನ ವೈದಿಕ ಸಂಪ್ರದಾಯಗಳನ್ನು ಸಂರಕ್ಷಿಸಲು ತಮ್ಮ ಜೀವನವನ್ನು ಮೀಸಲಿಟ್ಟಿದ್ದಾರೆ.",
+      "stats": {
+        "years": "15+",
+        "yearsLabel": "ವರ್ಷಗಳ ಅನುಭವ",
+        "rituals": "500+",
+        "ritualsLabel": "ಪವಿತ್ರ ಕ್ರಿಯೆಗಳು",
+        "families": "1000+",
+        "familiesLabel": "ಅನುಗ್ರಹಿಸಿದ ಕುಟುಂಬಗಳು"
+      }
+    },
+    "services": {
+      "title": "ಪಾವಿತ್ರ್ಯ ಕ್ರಿಯೆಗಳು ಮತ್ತು ಸೇವೆಗಳು",
+      "subtitle": "ನಿಖರತೆ, ಭಕ್ತಿ ಮತ್ತು ವೈದಿಕ ಶ್ರದ್ಧೆಯಿಂದ",
+      "rituals": {
+        "gruhapravesham": { "name": "ಗೃಹಪ್ರವೇಶ", "desc": "ಹೊಸ ಮನೆಗೆ ಶುಭ ಪ್ರವೇಶ ಸಮಾರಂಭ", "duration": "3–4 ಗಂಟೆ" },
+        "satyanarayana": { "name": "ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ", "desc": "ಸಮೃದ್ಧಿ ಮತ್ತು ಮನೋಕಾಮನಾ ಪೂರ್ತಿಗಾಗಿ ಪೂಜೆ", "duration": "2–3 ಗಂಟೆ" },
+        "sudarshana": { "name": "ಸುದರ್ಶನ ಹೋಮ", "desc": "ರಕ್ಷಣೆ ಮತ್ತು ವಿಘ್ನ ನಿವಾರಣೆಗಾಗಿ ಅಗ್ನಿ ಕ್ರಿಯೆ", "duration": "3–4 ಗಂಟೆ" },
+        "chandika": { "name": "ಚಂಡಿಕಾ ಹೋಮ", "desc": "ಶಕ್ತಿ ಮತ್ತು ರಕ್ಷಣೆಗಾಗಿ ದೇವಿ ಹೋಮ", "duration": "4–5 ಗಂಟೆ" },
+        "durgaDeepaNamaskara": { "name": "ದುರ್ಗಾ ದೀಪ ನಮಸ್ಕಾರ", "desc": "ದೇವಿ ದುರ್ಗೆಗೆ ದೀಪ ಅರ್ಚನೆ", "duration": "1–2 ಗಂಟೆ" },
+        "navagraha": { "name": "ನವಗ್ರಹ ಹೋಮ", "desc": "ನವ ಗ್ರಹಗಳಿಗೆ ಅಗ್ನಿ ಕ್ರಿಯೆ", "duration": "3–4 ಗಂಟೆ" },
+        "durgaSaptashathi": { "name": "ದುರ್ಗಾ ಸಪ್ತಶತೀ ಪಾರಾಯಣ", "desc": "ದೇವಿ ಮಾಹಾತ್ಮ್ಯ 700 ಶ್ಲೋಕಗಳ ಪಾರಾಯಣ", "duration": "4–6 ಗಂಟೆ" },
+        "rudrabhisheka": { "name": "ರುದ್ರಾಭಿಷೇಕ", "desc": "ಶಾಂತಿ ಮತ್ತು ಸಮೃದ್ಧಿಗಾಗಿ ಶಿವಲಿಂಗ ಅಭಿಷೇಕ", "duration": "2–3 ಗಂಟೆ" },
+        "devasthana": { "name": "ದೇವಸ್ಥಾನ ಪ್ರತಿಷ್ಠಾಪನ", "desc": "ದೇವರ ಮೂರ್ತಿಗಳ ವೈದಿಕ ಪ್ರತಿಷ್ಠಾಪನ", "duration": "ಪೂರ್ಣ ದಿನ" },
+        "ganaHoma": { "name": "ಗಣ ಹೋಮ", "desc": "ಗಣೇಶನಿಗೆ ವಿಘ್ನ ನಿವಾರಣ ಹೋಮ", "duration": "2–3 ಗಂಟೆ" },
+        "vivaha": { "name": "ವಿವಾಹ", "desc": "ಸಾಂಪ್ರದಾಯಿಕ ವೈದಿಕ ವಿವಾಹ ಸಮಾರಂಭ", "duration": "3–5 ಗಂಟೆ" }
+      }
+    },
+    "sudarshana": {
+      "title": "ಸುದರ್ಶನ ಹೋಮ",
+      "subtitle": "ಭಗವಾನ್ ವಿಷ್ಣುವಿನ ದಿವ್ಯ ಚಕ್ರ",
+      "desc": "ಸುದರ್ಶನ ಹೋಮ ಒಂದು ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿ ವೈಷ್ಣವ ಅಗ್ನಿ ವಿಧಿ. ಇದು ನಕಾರಾತ್ಮಕ ಶಕ್ತಿಗಳನ್ನು ನಾಶ ಮಾಡಿ ದೇವರ ರಕ್ಷಣೆಯನ್ನು ನೀಡುತ್ತದೆ.",
+      "benefits": "ರಕ್ಷಣೆ · ವಿಘ್ನ ನಿವಾರಣ · ದಿವ್ಯ ಅನುಗ್ರಹ"
+    },
+    "satyanarayana": {
+      "title": "ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ",
+      "subtitle": "ಭಗವಾನ್ ವಿಷ್ಣುವಿನ ಪಾವಿತ್ರ್ಯ ಪೂಜೆ",
+      "desc": "ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ ಒಂದು ಅತ್ಯಂತ ಪ್ರಿಯ ವೈಷ್ಣವ ಕ್ರಿಯೆ. ಇದು ಸಮೃದ್ಧಿ, ಕಾಮನಾ ಪೂರ್ತಿ ಮತ್ತು ದೈವಿಕ ಆಶೀರ್ವಾದ ನೀಡುತ್ತದೆ.",
+      "cta": "ಈ ಪೂಜೆ ಬುಕ್ ಮಾಡಿ"
+    },
+    "gruhapravesham": {
+      "title": "ಗೃಹಪ್ರವೇಶ",
+      "subtitle": "ಪಾವಿತ್ರ್ಯ ಗೃಹ ಪ್ರವೇಶ ಸಮಾರಂಭ",
+      "desc": "ಗೃಹಪ್ರವೇಶ ಹೊಸ ಮನೆ ಪ್ರವೇಶಕ್ಕೆ ಅತ್ಯಂತ ಮಂಗಲ ಸಮಾರಂಭ. ವೈದಿಕ ಮಂತ್ರಗಳ ಪಠಣ ಮತ್ತು ಹೋಮದ ಮೂಲಕ ಮನೆಯನ್ನು ಪವಿತ್ರಗೊಳಿಸಲಾಗುತ್ತದೆ.",
+      "tradition": "ಪ್ರಾಚೀನ ಸಂಪ್ರದಾಯ · ಪವಿತ್ರೀಕರಣ · ದೈವಿಕ ಆಶೀರ್ವಾದ"
+    },
+    "gallery": {
+      "title": "ಪಾವಿತ್ರ್ಯ ಕ್ಷಣಗಳು",
+      "subtitle": "ಭಕ್ತಿಯ ಚಿತ್ರಗಳು",
+      "filters": { "all": "ಎಲ್ಲಾ", "homa": "ಹೋಮ", "pooja": "ಪೂಜೆ", "pratishthapana": "ಪ್ರತಿಷ್ಠಾಪನ", "vivaha": "ವಿವಾಹ" }
+    },
+    "contact": {
+      "title": "ಪೂಜೆ ಬುಕ್ ಮಾಡಿ",
+      "subtitle": "ಪಂಡಿತ ಶ್ರೀವತ್ಸ ಶರ್ಮರನ್ನು ಸಂಪರ್ಕಿಸಿ",
+      "phone": "8073147207",
+      "phoneLabel": "ಕರೆ ಮಾಡಿ ಅಥವಾ WhatsApp",
+      "available": "ಬೆಂಗಳೂರು ಮತ್ತು ಕರ್ನಾಟಕದಾದ್ಯಂತ ಸೇವೆ ಲಭ್ಯ",
+      "form": {
+        "name": "ನಿಮ್ಮ ಪೂರ್ಣ ಹೆಸರು",
+        "email": "ಇಮೇಲ್ ವಿಳಾಸ",
+        "phone": "ಫೋನ್ ಸಂಖ್ಯೆ",
+        "ritual": "ಕ್ರಿಯೆ ಆಯ್ಕೆ ಮಾಡಿ",
+        "date": "ಆದ್ಯತೆಯ ದಿನಾಂಕ",
+        "location": "ಸಮಾರಂಭದ ಸ್ಥಳ",
+        "message": "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ",
+        "submit": "ವಿನಂತಿ ಕಳುಹಿಸಿ",
+        "sending": "ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ...",
+        "success": "ಧನ್ಯವಾದ! ಪಂಡಿತ ಶೀಘ್ರದಲ್ಲೇ ಸಂಪರ್ಕಿಸುತ್ತಾರೆ.",
+        "selectPlaceholder": "ಕ್ರಿಯೆ ಆಯ್ಕೆ ಮಾಡಿ..."
+      }
+    },
+    "drawer": {
+      "itemsRequired": "ಬೇಕಾದ ಸಾಮಗ್ರಿ",
+      "duration": "ಅವಧಿ",
+      "contactToBook": "ಬುಕ್ ಮಾಡಲು ಸಂಪರ್ಕಿಸಿ",
+      "printList": "ಪಟ್ಟಿ ಪ್ರಿಂಟ್",
+      "close": "ಮುಚ್ಚಿ",
+      "ritualDesc": "ಕ್ರಿಯೆಯ ವಿವರ"
+    },
+    "footer": {
+      "tagline": "ಪ್ರತಿ ಮನೆಯಲ್ಲೂ ದೈವಿಕ ಸೇವೆ",
+      "rights": "ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ"
+    }
+  },
+  "hi": {
+    "nav": {
+      "home": "होम",
+      "about": "परिचय",
+      "services": "सेवाएं",
+      "gallery": "गैलरी",
+      "contact": "संपर्क",
+      "bookNow": "अभी बुक करें"
+    },
+    "hero": {
+      "shloka": "ॐ सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः॥",
+      "shlokaTranslation": "सभी सुखी हों। सभी रोगमुक्त हों।",
+      "name": "श्रीवत्स शर्मा",
+      "title": "पुरोहित · वैदिक अनुष्ठान विशेषज्ञ",
+      "subtitle": "प्राचीन वैदिक परंपराओं के माध्यम से आत्माओं को दिव्यता से जोड़ना",
+      "cta": "पूजा बुक करें",
+      "scrollHint": "नीचे स्क्रॉल करें"
+    },
+    "about": {
+      "title": "श्रीवत्स शर्मा के बारे में",
+      "subtitle": "वैदिक परंपरा के संरक्षक",
+      "bio": "पंडित श्रीवत्स शर्मा 15 से अधिक वर्षों के अनुभव के साथ एक प्रतिष्ठित वैदिक विद्वान और पुरोहित हैं। पारंपरिक ब्राह्मण परिवार में जन्मे, उन्होंने प्राचीन वैदिक परंपराओं की रक्षा के लिए अपना जीवन समर्पित किया है।",
+      "stats": {
+        "years": "15+",
+        "yearsLabel": "वर्षों का अनुभव",
+        "rituals": "500+",
+        "ritualsLabel": "पवित्र अनुष्ठान",
+        "families": "1000+",
+        "familiesLabel": "आशीर्वादित परिवार"
+      }
+    },
+    "services": {
+      "title": "पवित्र अनुष्ठान एवं सेवाएं",
+      "subtitle": "सटीकता, भक्ति और वैदिक प्रामाणिकता के साथ",
+      "rituals": {
+        "gruhapravesham": { "name": "गृहप्रवेश", "desc": "नए घर में शुभ प्रवेश समारोह", "duration": "3–4 घंटे" },
+        "satyanarayana": { "name": "सत्यनारायण पूजा", "desc": "समृद्धि और मनोकामना पूर्ति की पूजा", "duration": "2–3 घंटे" },
+        "sudarshana": { "name": "सुदर्शन होम", "desc": "रक्षा और विघ्न निवारण के लिए अग्नि अनुष्ठान", "duration": "3–4 घंटे" },
+        "chandika": { "name": "चण्डिका होम", "desc": "शक्ति और विजय के लिए देवी होम", "duration": "4–5 घंटे" },
+        "durgaDeepaNamaskara": { "name": "दुर्गा दीप नमस्कार", "desc": "देवी दुर्गा को दीप अर्चना", "duration": "1–2 घंटे" },
+        "navagraha": { "name": "नवग्रह होम", "desc": "नौ ग्रहों के लिए अग्नि अनुष्ठान", "duration": "3–4 घंटे" },
+        "durgaSaptashathi": { "name": "दुर्गा सप्तशती पारायण", "desc": "देवी माहात्म्य के 700 श्लोकों का पाठ", "duration": "4–6 घंटे" },
+        "rudrabhisheka": { "name": "रुद्राभिषेक", "desc": "शांति और समृद्धि के लिए शिवलिंग अभिषेक", "duration": "2–3 घंटे" },
+        "devasthana": { "name": "देवस्थान प्रतिष्ठापन", "desc": "मंदिर देवताओं की वैदिक प्रतिष्ठापना", "duration": "पूरा दिन" },
+        "ganaHoma": { "name": "गण होम", "desc": "भगवान गणेश के लिए विघ्न निवारण होम", "duration": "2–3 घंटे" },
+        "vivaha": { "name": "विवाह", "desc": "पारंपरिक वैदिक विवाह समारोह", "duration": "3–5 घंटे" }
+      }
+    },
+    "sudarshana": {
+      "title": "सुदर्शन होम",
+      "subtitle": "भगवान विष्णु का दिव्य चक्र",
+      "desc": "सुदर्शन होम एक अत्यंत शक्तिशाली वैष्णव अग्नि अनुष्ठान है जो नकारात्मक शक्तियों का नाश करता है और दिव्य सुरक्षा प्रदान करता है।",
+      "benefits": "सुरक्षा · विघ्न निवारण · दिव्य कृपा"
+    },
+    "satyanarayana": {
+      "title": "सत्यनारायण पूजा",
+      "subtitle": "भगवान विष्णु की पावन पूजा",
+      "desc": "सत्यनारायण पूजा एक अत्यंत प्रिय वैष्णव अनुष्ठान है जो समृद्धि, मनोकामना पूर्ति और दिव्य आशीर्वाद प्रदान करती है।",
+      "cta": "यह पूजा बुक करें"
+    },
+    "gruhapravesham": {
+      "title": "गृहप्रवेश",
+      "subtitle": "पावन गृह प्रवेश समारोह",
+      "desc": "गृहप्रवेश नए घर में प्रवेश के लिए सबसे शुभ समारोह है। वैदिक मंत्रों के उच्चारण और होम से घर को पवित्र किया जाता है।",
+      "tradition": "प्राचीन परंपरा · पवित्रीकरण · दिव्य आशीर्वाद"
+    },
+    "gallery": {
+      "title": "पवित्र क्षण",
+      "subtitle": "भक्ति में कैद",
+      "filters": { "all": "सभी", "homa": "होम", "pooja": "पूजा", "pratishthapana": "प्रतिष्ठापन", "vivaha": "विवाह" }
+    },
+    "contact": {
+      "title": "पूजा बुक करें",
+      "subtitle": "पंडित श्रीवत्स शर्मा से संपर्क करें",
+      "phone": "8073147207",
+      "phoneLabel": "कॉल या WhatsApp करें",
+      "available": "बैंगलोर और कर्नाटक में सेवाएं उपलब्ध",
+      "form": {
+        "name": "आपका पूरा नाम",
+        "email": "ईमेल पता",
+        "phone": "फोन नंबर",
+        "ritual": "अनुष्ठान चुनें",
+        "date": "पसंदीदा तिथि",
+        "location": "समारोह स्थान",
+        "message": "अतिरिक्त जानकारी",
+        "submit": "अनुरोध भेजें",
+        "sending": "भेजा जा रहा है...",
+        "success": "धन्यवाद! पंडित जी शीघ्र संपर्क करेंगे।",
+        "selectPlaceholder": "अनुष्ठान चुनें..."
+      }
+    },
+    "drawer": {
+      "itemsRequired": "आवश्यक सामग्री",
+      "duration": "अवधि",
+      "contactToBook": "बुक करने के लिए संपर्क करें",
+      "printList": "सूची प्रिंट करें",
+      "close": "बंद करें",
+      "ritualDesc": "अनुष्ठान विवरण"
+    },
+    "footer": {
+      "tagline": "हर घर में दिव्य सेवा",
+      "rights": "सर्वाधिकार सुरक्षित"
+    }
+  },
+  "ta": {
+    "nav": {
+      "home": "வீடு",
+      "about": "பற்றி",
+      "services": "சேவைகள்",
+      "gallery": "தொகுப்பு",
+      "contact": "தொடர்பு",
+      "bookNow": "இப்போது பதிவு செய்யுங்கள்"
+    },
+    "hero": {
+      "shloka": "ॐ सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः॥",
+      "shlokaTranslation": "அனைவரும் மகிழ்ச்சியாக இருக்கட்டும். அனைவரும் நோயிலிருந்து விடுபடட்டும்.",
+      "name": "ஸ்ரீவத்ஸ ஷர்மா",
+      "title": "புரோகிதர் · வேத சடங்கு நிபுணர்",
+      "subtitle": "பண்டைய வேத மரபுகளின் மூலம் ஆன்மாக்களை தெய்வத்துடன் இணைக்கிறோம்",
+      "cta": "பூஜை பதிவு செய்யுங்கள்",
+      "scrollHint": "கீழே உருட்டுங்கள்"
+    },
+    "about": {
+      "title": "ஸ்ரீவத்ஸ ஷர்மா பற்றி",
+      "subtitle": "வேத மரபின் காவலர்",
+      "bio": "பண்டிட் ஸ்ரீவத்ஸ ஷர்மா 15 ஆண்டுகளுக்கும் மேலான அனுபவமுள்ள மதிப்பிற்குரிய வேத அறிஞரும் புரோகிதரும் ஆவார். பாரம்பரிய பிராமண குடும்பத்தில் பிறந்த அவர் பண்டைய வேத மரபுகளை பாதுகாக்க தன் வாழ்க்கையை அர்ப்பணித்துள்ளார்.",
+      "stats": {
+        "years": "15+",
+        "yearsLabel": "ஆண்டுகள் அனுபவம்",
+        "rituals": "500+",
+        "ritualsLabel": "புனித சடங்குகள்",
+        "families": "1000+",
+        "familiesLabel": "ஆசீர்வதிக்கப்பட்ட குடும்பங்கள்"
+      }
+    },
+    "services": {
+      "title": "புனித சடங்குகள் மற்றும் சேவைகள்",
+      "subtitle": "துல்லியம், பக்தி மற்றும் வேத நேர்மையுடன்",
+      "rituals": {
+        "gruhapravesham": { "name": "கிரகப்பிரவேசம்", "desc": "புதிய வீட்டிற்கு மங்களகரமான வருகை விழா", "duration": "3–4 மணி நேரம்" },
+        "satyanarayana": { "name": "சத்யநாராயண பூஜை", "desc": "செழிப்பு மற்றும் ஆசை நிறைவேற்றத்திற்கான பூஜை", "duration": "2–3 மணி நேரம்" },
+        "sudarshana": { "name": "சுதர்சன ஹோமம்", "desc": "பாதுகாப்பு மற்றும் தடைகள் நீக்குவதற்கான தீ விழா", "duration": "3–4 மணி நேரம்" },
+        "chandika": { "name": "சண்டிக ஹோமம்", "desc": "சக்தி மற்றும் பாதுகாப்புக்கான தேவி ஹோமம்", "duration": "4–5 மணி நேரம்" },
+        "durgaDeepaNamaskara": { "name": "துர்க்கா தீப நமஸ்காரம்", "desc": "தேவி துர்க்காவிற்கு தீப அர்ச்சனை", "duration": "1–2 மணி நேரம்" },
+        "navagraha": { "name": "நவகிரக ஹோமம்", "desc": "ஒன்பது கிரகங்களுக்கான தீ விழா", "duration": "3–4 மணி நேரம்" },
+        "durgaSaptashathi": { "name": "துர்க்கா சப்தசதி பாராயணம்", "desc": "தேவி மாஹாத்ம்யத்தின் 700 ஸ்லோகங்கள் பாராயணம்", "duration": "4–6 மணி நேரம்" },
+        "rudrabhisheka": { "name": "ருத்ராபிஷேகம்", "desc": "சாந்தி மற்றும் செழிப்புக்கான சிவலிங்க அபிஷேகம்", "duration": "2–3 மணி நேரம்" },
+        "devasthana": { "name": "தேவஸ்தான பிரதிஷ்டாபனம்", "desc": "கோவில் தெய்வங்களின் வேத நிறுவல் விழா", "duration": "முழு நாள்" },
+        "ganaHoma": { "name": "கண ஹோமம்", "desc": "கணேசருக்கு தடை நீக்கும் ஹோமம்", "duration": "2–3 மணி நேரம்" },
+        "vivaha": { "name": "திருமணம்", "desc": "பாரம்பரிய வேத திருமண விழா", "duration": "3–5 மணி நேரம்" }
+      }
+    },
+    "sudarshana": {
+      "title": "சுதர்சன ஹோமம்",
+      "subtitle": "பகவான் விஷ்ணுவின் திவ்யமான சக்கரம்",
+      "desc": "சுதர்சன ஹோமம் மிகவும் சக்திவாய்ந்த வைஷ்ணவ தீ விழா. இது எதிர்மறை சக்திகளை அழித்து தெய்வீக பாதுகாப்பை வழங்குகிறது.",
+      "benefits": "பாதுகாப்பு · தடை நீக்கல் · தெய்வீக அருள்"
+    },
+    "satyanarayana": {
+      "title": "சத்யநாராயண பூஜை",
+      "subtitle": "பகவான் விஷ்ணுவின் புனித பூஜை",
+      "desc": "சத்யநாராயண பூஜை மிகவும் அன்பான வைஷ்ணவ சடங்கு. இது செழிப்பு, ஆசை நிறைவேற்றம் மற்றும் தெய்வீக ஆசீர்வாதம் வழங்குகிறது.",
+      "cta": "இந்த பூஜையை பதிவு செய்யுங்கள்"
+    },
+    "gruhapravesham": {
+      "title": "கிரகப்பிரவேசம்",
+      "subtitle": "புனித இல்லக் கொண்டாட்ட விழா",
+      "desc": "கிரகப்பிரவேசம் புதிய வீட்டிற்கு மிகவும் மங்களகரமான விழா. வேத மந்திரங்கள் மற்றும் ஹோமம் மூலம் வீடு புனிதப்படுத்தப்படுகிறது.",
+      "tradition": "பண்டைய மரபு · புனிதப்படுத்தல் · தெய்வீக ஆசீர்வாதம்"
+    },
+    "gallery": {
+      "title": "புனித தருணங்கள்",
+      "subtitle": "பக்தியில் படம்பிடிக்கப்பட்டது",
+      "filters": { "all": "அனைத்தும்", "homa": "ஹோமம்", "pooja": "பூஜை", "pratishthapana": "பிரதிஷ்டாபனம்", "vivaha": "திருமணம்" }
+    },
+    "contact": {
+      "title": "பூஜை பதிவு செய்யுங்கள்",
+      "subtitle": "பண்டிட் ஸ்ரீவத்ஸ ஷர்மாவை தொடர்பு கொள்ளுங்கள்",
+      "phone": "8073147207",
+      "phoneLabel": "அழைக்கவும் அல்லது WhatsApp",
+      "available": "பெங்களூரு மற்றும் கர்நாடகா முழுவதும் சேவை",
+      "form": {
+        "name": "உங்கள் முழு பெயர்",
+        "email": "மின்னஞ்சல் முகவரி",
+        "phone": "தொலைபேசி எண்",
+        "ritual": "சடங்கு தேர்வு",
+        "date": "விரும்பிய தேதி",
+        "location": "விழா இடம்",
+        "message": "கூடுதல் குறிப்புகள்",
+        "submit": "வேண்டுகோள் அனுப்பு",
+        "sending": "அனுப்புகிறோம்...",
+        "success": "நன்றி! பண்டிட் விரைவில் தொடர்பு கொள்வார்.",
+        "selectPlaceholder": "சடங்கு தேர்வு செய்யுங்கள்..."
+      }
+    },
+    "drawer": {
+      "itemsRequired": "தேவையான பொருட்கள்",
+      "duration": "கால அளவு",
+      "contactToBook": "பதிவு செய்ய தொடர்பு கொள்ளுங்கள்",
+      "printList": "பட்டியல் அச்சு",
+      "close": "மூடு",
+      "ritualDesc": "சடங்கு விவரம்"
+    },
+    "footer": {
+      "tagline": "ஒவ்வொரு வீட்டிலும் தெய்வீக சேவை",
+      "rights": "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை"
+    }
+  },
+  "te": {
+    "nav": {
+      "home": "ఇల్లు",
+      "about": "గురించి",
+      "services": "సేవలు",
+      "gallery": "గ్యాలరీ",
+      "contact": "సంప్రదించు",
+      "bookNow": "ఇప్పుడు బుక్ చేయండి"
+    },
+    "hero": {
+      "shloka": "ॐ सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः॥",
+      "shlokaTranslation": "అందరూ సుఖంగా ఉండాలి. అందరూ రోగముక్తులు అవ్వాలి.",
+      "name": "శ్రీవత్స శర్మ",
+      "title": "పురోహిత · వేద క్రతువు నిపుణుడు",
+      "subtitle": "పురాతన వేద సంప్రదాయాల ద్వారా ఆత్మలను దైవంతో అనుసంధానించడం",
+      "cta": "పూజ బుక్ చేయండి",
+      "scrollHint": "క్రిందికి స్క్రోల్ చేయండి"
+    },
+    "about": {
+      "title": "శ్రీవత్స శర్మ గురించి",
+      "subtitle": "వేద సంప్రదాయ సంరక్షకుడు",
+      "bio": "పండిత్ శ్రీవత్స శర్మ 15 సంవత్సరాలకు పైగా అనుభవం ఉన్న గౌరవనీయమైన వేద పండితుడు మరియు పురోహిత. సంప్రదాయ బ్రాహ్మణ కుటుంబంలో జన్మించిన ఆయన పురాతన వేద సంప్రదాయాలను సంరక్షించడానికి తన జీవితాన్ని అర్పించారు.",
+      "stats": {
+        "years": "15+",
+        "yearsLabel": "సంవత్సరాల అనుభవం",
+        "rituals": "500+",
+        "ritualsLabel": "పవిత్ర క్రతువులు",
+        "families": "1000+",
+        "familiesLabel": "ఆశీర్వదించిన కుటుంబాలు"
+      }
+    },
+    "services": {
+      "title": "పవిత్ర క్రతువులు మరియు సేవలు",
+      "subtitle": "ఖచ్చితత్వం, భక్తి మరియు వేద ప్రామాణికతతో",
+      "rituals": {
+        "gruhapravesham": { "name": "గృహప్రవేశం", "desc": "కొత్త ఇంట్లోకి శుభ ప్రవేశ వేడుక", "duration": "3–4 గంటలు" },
+        "satyanarayana": { "name": "సత్యనారాయణ పూజ", "desc": "సమృద్ధి మరియు కోరిక తీర్పుకోసం పూజ", "duration": "2–3 గంటలు" },
+        "sudarshana": { "name": "సుదర్శన హోమ", "desc": "రక్షణ మరియు అడ్డంకుల నివారణకు అగ్ని క్రతువు", "duration": "3–4 గంటలు" },
+        "chandika": { "name": "చండికా హోమ", "desc": "శక్తి మరియు విజయం కోసం దేవి హోమ", "duration": "4–5 గంటలు" },
+        "durgaDeepaNamaskara": { "name": "దుర్గా దీప నమస్కార", "desc": "దేవి దుర్గకు దీప అర్చన", "duration": "1–2 గంటలు" },
+        "navagraha": { "name": "నవగ్రహ హోమ", "desc": "తొమ్మిది గ్రహాలకు అగ్ని క్రతువు", "duration": "3–4 గంటలు" },
+        "durgaSaptashathi": { "name": "దుర్గా సప్తశతీ పారాయణ", "desc": "దేవి మాహాత్మ్యం 700 శ్లోకాల పారాయణ", "duration": "4–6 గంటలు" },
+        "rudrabhisheka": { "name": "రుద్రాభిషేక", "desc": "శాంతి మరియు సమృద్ధికి శివలింగ అభిషేకం", "duration": "2–3 గంటలు" },
+        "devasthana": { "name": "దేవస్థాన ప్రతిష్టాపన", "desc": "మందిర దేవతల వేద ప్రతిష్టాపన", "duration": "పూర్తి రోజు" },
+        "ganaHoma": { "name": "గణ హోమ", "desc": "గణేషునికి అడ్డంకి నివారణ హోమ", "duration": "2–3 గంటలు" },
+        "vivaha": { "name": "వివాహం", "desc": "సంప్రదాయ వేద వివాహ వేడుక", "duration": "3–5 గంటలు" }
+      }
+    },
+    "sudarshana": {
+      "title": "సుదర్శన హోమ",
+      "subtitle": "భగవాన్ విష్ణువు యొక్క దివ్య చక్రం",
+      "desc": "సుదర్శన హోమ అతి శక్తివంతమైన వైష్ణవ అగ్ని క్రతువు. ఇది నకారాత్మక శక్తులను నాశనం చేసి దైవ రక్షణను అందిస్తుంది.",
+      "benefits": "రక్షణ · అడ్డంకి నివారణ · దివ్య కృప"
+    },
+    "satyanarayana": {
+      "title": "సత్యనారాయణ పూజ",
+      "subtitle": "భగవాన్ విష్ణువు యొక్క పవిత్ర పూజ",
+      "desc": "సత్యనారాయణ పూజ అత్యంత ప్రియమైన వైష్ణవ క్రతువు. ఇది సమృద్ధి, కోరిక తీర్పు మరియు దైవ ఆశీర్వాదం ఇస్తుంది.",
+      "cta": "ఈ పూజ బుక్ చేయండి"
+    },
+    "gruhapravesham": {
+      "title": "గృహప్రవేశం",
+      "subtitle": "పవిత్ర గృహ ప్రవేశ వేడుక",
+      "desc": "గృహప్రవేశం కొత్త ఇంట్లోకి ప్రవేశించే అత్యంత శుభ వేడుక. వేద మంత్రాలు మరియు హోమం ద్వారా ఇల్లు పవిత్రం చేయబడుతుంది.",
+      "tradition": "పురాతన సంప్రదాయం · పవిత్రీకరణ · దైవ ఆశీర్వాదం"
+    },
+    "gallery": {
+      "title": "పవిత్ర క్షణాలు",
+      "subtitle": "భక్తిలో చిత్రీకరించబడినవి",
+      "filters": { "all": "అన్నీ", "homa": "హోమ", "pooja": "పూజ", "pratishthapana": "ప్రతిష్టాపన", "vivaha": "వివాహం" }
+    },
+    "contact": {
+      "title": "పూజ బుక్ చేయండి",
+      "subtitle": "పండిత్ శ్రీవత్స శర్మను సంప్రదించండి",
+      "phone": "8073147207",
+      "phoneLabel": "కాల్ చేయండి లేదా WhatsApp",
+      "available": "బెంగళూరు మరియు కర్ణాటక అంతటా సేవలు అందుబాటులో ఉన్నాయి",
+      "form": {
+        "name": "మీ పూర్తి పేరు",
+        "email": "ఇమెయిల్ చిరునామా",
+        "phone": "ఫోన్ నంబర్",
+        "ritual": "క్రతువు ఎంచుకోండి",
+        "date": "ఇష్టమైన తేదీ",
+        "location": "వేడుక స్థలం",
+        "message": "అదనపు వివరాలు",
+        "submit": "విన్నపం పంపండి",
+        "sending": "పంపుతున్నాం...",
+        "success": "ధన్యవాదాలు! పండిత్ త్వరలో సంప్రదిస్తారు.",
+        "selectPlaceholder": "క్రతువు ఎంచుకోండి..."
+      }
+    },
+    "drawer": {
+      "itemsRequired": "కావలసిన సామగ్రి",
+      "duration": "వ్యవధి",
+      "contactToBook": "బుక్ చేయడానికి సంప్రదించండి",
+      "printList": "జాబితా ముద్రించు",
+      "close": "మూసివేయి",
+      "ritualDesc": "క్రతువు వివరణ"
+    },
+    "footer": {
+      "tagline": "ప్రతి ఇంటిలో దైవ సేవ",
+      "rights": "అన్ని హక్కులు రిజర్వ్ చేయబడ్డాయి"
+    }
+  },
+  "ml": {
+    "nav": {
+      "home": "വീട്",
+      "about": "കുറിച്ച്",
+      "services": "സേവനങ്ങൾ",
+      "gallery": "ഗ്യാലറി",
+      "contact": "ബന്ധപ്പെടുക",
+      "bookNow": "ഇപ്പോൾ ബുക്ക് ചെയ്യുക"
+    },
+    "hero": {
+      "shloka": "ॐ सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः॥",
+      "shlokaTranslation": "എല്ലാവരും സന്തോഷമുള്ളവരാകട്ടെ. എല്ലാവരും രോഗമുക്തരാകട്ടെ.",
+      "name": "ശ്രീവത്സ ശർമ",
+      "title": "പുരോഹിതൻ · വേദ ക്രിയ വിദഗ്ദ്ധൻ",
+      "subtitle": "പ്രാചീന വേദ പാരമ്പര്യങ്ങളിലൂടെ ആത്മാക്കളെ ദൈവവുമായി ബന്ധിപ്പിക്കുന്നു",
+      "cta": "പൂജ ബുക്ക് ചെയ്യുക",
+      "scrollHint": "താഴേക്ക് സ്ക്രോൾ ചെയ്യുക"
+    },
+    "about": {
+      "title": "ശ്രീവത്സ ശർമ കുറിച്ച്",
+      "subtitle": "വേദ പാരമ്പര്യത്തിന്റെ സൂക്ഷിപ്പുകാരൻ",
+      "bio": "പണ്ഡിറ്റ് ശ്രീവത്സ ശർമ 15 വർഷത്തിലധികം അനുഭവമുള്ള ബഹുമാനിക്കപ്പെടുന്ന വേദ പണ്ഡിതനും പുരോഹിതനുമാണ്. പരമ്പരാഗത ബ്രാഹ്മണ കുടുംബത്തിൽ ജനിച്ച അദ്ദേഹം പ്രാചീന വേദ പാരമ്പര്യങ്ങൾ സംരക്ഷിക്കാൻ തന്റെ ജീവിതം സമർപ്പിച്ചിരിക്കുന്നു.",
+      "stats": {
+        "years": "15+",
+        "yearsLabel": "വർഷത്തെ അനുഭവം",
+        "rituals": "500+",
+        "ritualsLabel": "പുണ്യ ക്രിയകൾ",
+        "families": "1000+",
+        "familiesLabel": "അനുഗ്രഹിക്കപ്പെട്ട കുടുംബങ്ങൾ"
+      }
+    },
+    "services": {
+      "title": "പുണ്യ ക്രിയകളും സേവനങ്ങളും",
+      "subtitle": "കൃത്യത, ഭക്തി, വേദ ആധികാരികതയോടെ",
+      "rituals": {
+        "gruhapravesham": { "name": "ഗൃഹപ്രവേശം", "desc": "പുതിയ വീട്ടിലേക്കുള്ള ശുഭ പ്രവേശ ചടങ്ങ്", "duration": "3–4 മണിക്കൂർ" },
+        "satyanarayana": { "name": "സത്യനാരായണ പൂജ", "desc": "സമൃദ്ധിക്കും ആഗ്രഹ സഫലീകരണത്തിനുമുള്ള പൂജ", "duration": "2–3 മണിക്കൂർ" },
+        "sudarshana": { "name": "സുദർശന ഹോമ", "desc": "സംരക്ഷണത്തിനും തടസ്സ നിവാരണത്തിനുമുള്ള അഗ്നി ക്രിയ", "duration": "3–4 മണിക്കൂർ" },
+        "chandika": { "name": "ചണ്ഡിക ഹോമ", "desc": "ശക്തിക്കും സംരക്ഷണത്തിനുമുള്ള ദേവി ഹോമ", "duration": "4–5 മണിക്കൂർ" },
+        "durgaDeepaNamaskara": { "name": "ദുർഗ്ഗ ദീപ നമസ്കാരം", "desc": "ദേവി ദുർഗ്ഗക്ക് ദീപ അർച്ചന", "duration": "1–2 മണിക്കൂർ" },
+        "navagraha": { "name": "നവഗ്രഹ ഹോമ", "desc": "ഒൻപത് ഗ്രഹങ്ങൾക്കുള്ള അഗ്നി ക്രിയ", "duration": "3–4 മണിക്കൂർ" },
+        "durgaSaptashathi": { "name": "ദുർഗ്ഗ സപ്തശതി പാരായണം", "desc": "ദേവി മാഹാത്മ്യം 700 ശ്ലോകങ്ങളുടെ പാരായണം", "duration": "4–6 മണിക്കൂർ" },
+        "rudrabhisheka": { "name": "രുദ്രാഭിഷേകം", "desc": "ശാന്തിക്കും സമൃദ്ധിക്കുമുള്ള ശിവലിംഗ അഭിഷേകം", "duration": "2–3 മണിക്കൂർ" },
+        "devasthana": { "name": "ദേവസ്ഥാന പ്രതിഷ്ഠാപന", "desc": "ക്ഷേത്ര ദേവതകളുടെ വേദ പ്രതിഷ്ഠ", "duration": "മുഴുവൻ ദിവസം" },
+        "ganaHoma": { "name": "ഗണ ഹോമ", "desc": "ഗണേശനുള്ള തടസ്സ നിവാരണ ഹോമ", "duration": "2–3 മണിക്കൂർ" },
+        "vivaha": { "name": "വിവാഹം", "desc": "പരമ്പരാഗത വേദ വിവാഹ ചടങ്ങ്", "duration": "3–5 മണിക്കൂർ" }
+      }
+    },
+    "sudarshana": {
+      "title": "സുദർശന ഹോമ",
+      "subtitle": "ഭഗവാൻ വിഷ്ണുവിന്റെ ദിവ്യ ചക്രം",
+      "desc": "സുദർശന ഹോമ അതിശക്തമായ വൈഷ്ണവ അഗ്നി ക്രിയ. ഇത് നകാരാത്മക ശക്തികളെ നശിപ്പിച്ച് ദൈവിക സംരക്ഷണം നൽകുന്നു.",
+      "benefits": "സംരക്ഷണം · തടസ്സ നിവാരണം · ദൈവിക അനുഗ്രഹം"
+    },
+    "satyanarayana": {
+      "title": "സത്യനാരായണ പൂജ",
+      "subtitle": "ഭഗവാൻ വിഷ്ണുവിന്റെ പുണ്യ പൂജ",
+      "desc": "സത്യനാരായണ പൂജ ഏറ്റവും പ്രിയപ്പെട്ട വൈഷ്ണവ ക്രിയ. ഇത് സമൃദ്ധി, ആഗ്രഹ സഫലീകരണം, ദൈവിക അനുഗ്രഹം നൽകുന്നു.",
+      "cta": "ഈ പൂജ ബുക്ക് ചെയ്യുക"
+    },
+    "gruhapravesham": {
+      "title": "ഗൃഹപ്രവേശം",
+      "subtitle": "പുണ്യ ഗൃഹ പ്രവേശ ചടങ്ങ്",
+      "desc": "ഗൃഹപ്രവേശം പുതിയ വീട്ടിൽ കടക്കുന്നതിനുള്ള ഏറ്റവും ശുഭകരമായ ചടങ്ങ്. വേദ മന്ത്രങ്ങളും ഹോമവും ഉപയോഗിച്ച് വീട് ശുദ്ധീകരിക്കപ്പെടുന്നു.",
+      "tradition": "പ്രാചീന പാരമ്പര്യം · ശുദ്ധീകരണം · ദൈവിക അനുഗ്രഹം"
+    },
+    "gallery": {
+      "title": "പുണ്യ നിമിഷങ്ങൾ",
+      "subtitle": "ഭക്തിയിൽ പകർത്തപ്പെട്ടവ",
+      "filters": { "all": "എല്ലാം", "homa": "ഹോമ", "pooja": "പൂജ", "pratishthapana": "പ്രതിഷ്ഠാപന", "vivaha": "വിവാഹം" }
+    },
+    "contact": {
+      "title": "പൂജ ബുക്ക് ചെയ്യുക",
+      "subtitle": "പണ്ഡിറ്റ് ശ്രീവത്സ ശർമയെ ബന്ധപ്പെടുക",
+      "phone": "8073147207",
+      "phoneLabel": "വിളിക്കുക അല്ലെങ്കിൽ WhatsApp",
+      "available": "ബെംഗളൂരു, കർണാടക തുടങ്ങി വിവിധ സ്ഥലങ്ങളിൽ സേവനം ലഭ്യം",
+      "form": {
+        "name": "നിങ്ങളുടെ പൂർണ നാമം",
+        "email": "ഇ-മെയിൽ വിലാസം",
+        "phone": "ഫോൺ നമ്പർ",
+        "ritual": "ക്രിയ തിരഞ്ഞെടുക്കുക",
+        "date": "ഇഷ്ടമുള്ള തീയതി",
+        "location": "ചടങ്ങ് സ്ഥലം",
+        "message": "അധിക കുറിപ്പുകൾ",
+        "submit": "അഭ്യർഥന അയക്കുക",
+        "sending": "അയക്കുന്നു...",
+        "success": "നന്ദി! പണ്ഡിറ്റ് ഉടൻ ബന്ധപ്പെടും.",
+        "selectPlaceholder": "ക്രിയ തിരഞ്ഞെടുക്കൂ..."
+      }
+    },
+    "drawer": {
+      "itemsRequired": "ആവശ്യമായ സാമഗ്രികൾ",
+      "duration": "ദൈർഘ്യം",
+      "contactToBook": "ബുക്ക് ചെയ്യാൻ ബന്ധപ്പെടുക",
+      "printList": "പട്ടിക പ്രിന്റ് ചെയ്യുക",
+      "close": "അടക്കുക",
+      "ritualDesc": "ക്രിയ വിവരണം"
+    },
+    "footer": {
+      "tagline": "ഓരോ വീട്ടിലും ദൈവിക സേവനം",
+      "rights": "എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം"
+    }
+  }
+}

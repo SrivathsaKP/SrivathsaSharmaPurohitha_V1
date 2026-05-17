@@ -1,0 +1,258 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+  body {
+    background-color: #0a0501;
+    color: #FAF3E0;
+    font-family: 'Inter', system-ui, sans-serif;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #0a0501;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #C9960C;
+    border-radius: 3px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #E8B84B;
+  }
+
+  ::selection {
+    background: rgba(201, 150, 12, 0.4);
+    color: #FAF3E0;
+  }
+}
+
+@layer components {
+  .font-cinzel {
+    font-family: 'Cinzel', Georgia, serif;
+  }
+
+  .gold-shimmer {
+    background: linear-gradient(
+      90deg,
+      #9B6E0A 0%,
+      #C9960C 20%,
+      #F5D98A 40%,
+      #E8B84B 50%,
+      #F5D98A 60%,
+      #C9960C 80%,
+      #9B6E0A 100%
+    );
+    background-size: 400% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shimmer 2.5s ease-in-out infinite;
+  }
+
+  .glass-card {
+    background: rgba(10, 5, 1, 0.6);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(201, 150, 12, 0.2);
+  }
+
+  .glass-card-hover {
+    background: rgba(10, 5, 1, 0.6);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(201, 150, 12, 0.2);
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .glass-card-hover:hover {
+    border-color: rgba(201, 150, 12, 0.6);
+    box-shadow: 0 0 30px rgba(201, 150, 12, 0.15), inset 0 0 20px rgba(201, 150, 12, 0.05);
+  }
+
+  .gold-border {
+    border: 1px solid rgba(201, 150, 12, 0.4);
+  }
+
+  .gold-text {
+    color: #C9960C;
+  }
+
+  .section-title {
+    font-family: 'Cinzel', Georgia, serif;
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 700;
+    color: #FAF3E0;
+    letter-spacing: 0.05em;
+  }
+
+  .section-subtitle {
+    font-family: 'Cinzel', Georgia, serif;
+    color: #C9960C;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+  }
+
+  .btn-gold {
+    font-family: 'Cinzel', Georgia, serif;
+    border: 1px solid #C9960C;
+    color: #C9960C;
+    padding: 0.75rem 2rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    position: relative;
+    overflow: hidden;
+    transition: color 0.3s ease;
+    background: transparent;
+    cursor: pointer;
+  }
+
+  .btn-gold::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, #9B6E0A, #C9960C, #E8B84B);
+    transform: translateX(-100%);
+    transition: transform 0.4s ease;
+    z-index: -1;
+  }
+
+  .btn-gold:hover {
+    color: #0a0501;
+  }
+
+  .btn-gold:hover::before {
+    transform: translateX(0);
+  }
+
+  .btn-gold-fill {
+    font-family: 'Cinzel', Georgia, serif;
+    background: linear-gradient(135deg, #9B6E0A, #C9960C, #E8B84B);
+    color: #0a0501;
+    padding: 0.75rem 2rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    transition: opacity 0.3s ease, transform 0.2s ease;
+  }
+
+  .btn-gold-fill:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+  }
+
+  .sacred-divider {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .sacred-divider::before,
+  .sacred-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #C9960C, transparent);
+  }
+
+  .text-glow-gold {
+    text-shadow: 0 0 20px rgba(201, 150, 12, 0.5), 0 0 40px rgba(201, 150, 12, 0.3);
+  }
+
+  .img-diagonal-mask {
+    clip-path: polygon(0 0, 85% 0, 100% 100%, 0 100%);
+  }
+
+  .img-curve-mask {
+    clip-path: ellipse(90% 100% at 20% 50%);
+  }
+
+  .glow-gold {
+    box-shadow: 0 0 30px rgba(201, 150, 12, 0.3), 0 0 60px rgba(201, 150, 12, 0.1);
+  }
+
+  .temple-texture {
+    background-image:
+      radial-gradient(circle at 2px 2px, rgba(201, 150, 12, 0.08) 1px, transparent 0);
+    background-size: 32px 32px;
+  }
+}
+
+@layer utilities {
+  .will-change-transform {
+    will-change: transform;
+  }
+
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+}
+
+/* Scrollbar hide utility for filter tabs on mobile */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Safe touch targets */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Print styles for pooja items */
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+}
